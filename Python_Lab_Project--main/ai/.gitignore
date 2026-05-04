@@ -1,0 +1,129 @@
+.env.local
+.venv
+API_Dummy_Data.md
+# =========================
+# 🐍 Python Basics
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+env/
+
+# =========================
+# 📦 Packaging / Build
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# =========================
+# 📓 Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Optional: ignore all notebooks (uncomment if needed)
+# *.ipynb
+
+# =========================
+# 🔐 Environment Variables
+# =========================
+.env
+.env.*
+*.env
+
+# API keys (very important for LangChain/OpenAI)
+secrets.json
+config.yaml
+config.yml
+
+# =========================
+# 🧠 LangChain / RAG Artifacts
+# =========================
+
+# Vector databases (FAISS, Chroma, etc.)
+*.faiss
+*.pkl
+*.db
+*.sqlite3
+chroma/
+chroma_db/
+chroma_store/
+vectorstore/
+vector_store/
+faiss_index/
+
+# Embeddings cache
+embeddings/
+cache/
+.cache/
+
+# LLM outputs / logs
+outputs/
+logs/
+*.log
+
+# =========================
+# 📂 Data Files
+# =========================
+data/
+datasets/
+*.csv
+*.tsv
+*.parquet
+*.jsonl
+
+# (Keep small sample data if needed)
+!data/sample/
+
+# =========================
+# 🧪 Testing / Coverage
+# =========================
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# =========================
+# 🖥️ OS / Editor Junk
+# =========================
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# =========================
+# 🔥 Misc
+# =========================
+*.bak
+*.tmp
+*.swp
+
+# =========================
+# 🐳 Docker (optional)
+# =========================
+docker-compose.override.yml
+
+# =========================
+# ⚙️ Streamlit / FastAPI
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# 🚀 Deployment
+# =========================
+*.pem
+*.key
