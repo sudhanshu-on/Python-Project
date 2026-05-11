@@ -131,7 +131,7 @@ The system:
 
 ---
 
-## 👥 Team
+## 👥 Team (Batch A)
 
 - *Sudhanshu Bagde*
 - *Aadarsh Charpe*
