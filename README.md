@@ -4,6 +4,14 @@
 
 ---
 
+## 👥 Team (Batch A)
+
+- *Sudhanshu Bagde*
+- *Aadarsh Charpe*
+- *Vedant Dakare*
+
+---
+
 ## 🚨 Problem
 
 In hospitals, critical patient information is often lost during:
@@ -131,13 +139,6 @@ The system:
 
 ---
 
-## 👥 Team (Batch A)
-
-- *Sudhanshu Bagde*
-- *Aadarsh Charpe*
-- *Vedant Dakare*
-
----
 
 ## 📎 How to Run
 
