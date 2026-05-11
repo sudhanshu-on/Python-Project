@@ -6,9 +6,9 @@
 
 ## 👥 Team (Batch A)
 
-- *Sudhanshu Bagde*
-- *Aadarsh Charpe*
-- *Vedant Dakare*
+- *Sudhanshu Bagde* (BT24F05F005)
+- *Aadarsh Charpe* (BT24F05F010)
+- *Vedant Dakare* (BT24F05F015)
 
 ---
 
